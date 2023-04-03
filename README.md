@@ -1,4 +1,15 @@
-# Petronus Spherical Robot
+# Petronus Spherical Robot (Keep updating)
+
+Pet + Patronus = Your Pets’ PETRONUS
+
+P: Perception
+E: Environment
+T: Teleoperation
+R: Robotics
+O: Operations
+N: Navigation
+U: Utility
+S: System
 
 
 
