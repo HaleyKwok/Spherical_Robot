@@ -11,6 +11,16 @@ Petronus is a spherical robot with a purpose of being a pet sitter. The aim of t
 
 
 ---
+
+## Features
+
+Bluetooth: Linking to mobile devices 
+Mini camera: Monitoring the real-time situation 
+Music Player: Playing music to the pets remotely through mobile devices
+LED lights: entertaining with pets
+
+
+---
 ## Business Strategy
 
 Our business strategy focuses on leveraging technology to create innovative solutions that improve the quality of life for pets and their owners. We aim to differentiate ourselves in the market by offering unique products that take advantage of the latest trends in Artificial Intelligence (AI) and the Internet of Things (IoT). Our product development process involves extensive research and development to ensure that our products meet the needs of pet owners and their pets.
