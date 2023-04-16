@@ -1,7 +1,5 @@
 # Petronus Spherical Robot
 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png" align="center" />
-</div> 
 
 Pet + Patronus = Your Pets’ PETRONUS
 
@@ -13,6 +11,10 @@ O: Operations
 N: Navigation
 U: Utility
 S: System
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png" align="center" />
+</div> 
+
 
 
 ---
@@ -31,7 +33,10 @@ Our business strategy focuses on leveraging technology to create innovative solu
 
 ---
 
-## Features
+## 🥳 Features
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/SphericalRobot.jpeg" align="center" />
+</div> 
 
 - Bluetooth: Linking to mobile devices 
 - Mini camera: Monitoring the real-time situation 
