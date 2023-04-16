@@ -1,5 +1,8 @@
 # Petronus Spherical Robot
 
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png" align="center" />
+</div> 
+
 Pet + Patronus = Your Pets’ PETRONUS
 
 P: Perception
@@ -11,9 +14,6 @@ N: Navigation
 U: Utility
 S: System
 
-
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png" align="center" />
-</div> 
 
 ---
 
@@ -107,8 +107,7 @@ Thank you for choosing Petronus.
 
 User Guide:
 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/UserGuide.pdf" align="center" />
-</div> 
+<a href="https://github.com/HaleyKwok/Spherical_Robot/blob/main/UserGuide.pdf"></a>
 
 
 
