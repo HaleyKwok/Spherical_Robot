@@ -57,7 +57,7 @@ Control Diagram: [Control Diagram](https://github.com/HaleyKwok/Spherical_Robot/
 
 ---
 
-## Petronus Pet Care Ball Robot User Guide
+## 🧾 Petronus Pet Care Ball Robot User Guide
 
 
 User Guide in PDF version: [User Guide](https://github.com/HaleyKwok/Spherical_Robot/blob/main/UserGuide.pdf)
