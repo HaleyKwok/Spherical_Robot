@@ -33,7 +33,7 @@ Our business strategy focuses on leveraging technology to create innovative solu
 ## 🥳 Features
 
 ### Product Overview 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/SphericalRobot.jpeg" align="center" width = "200" />
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/SphericalRobot.jpeg" align="center" width = "350" />
 </div> 
 
 <br>
@@ -56,7 +56,7 @@ Our business strategy focuses on leveraging technology to create innovative solu
 
 <br>
 
-- LED lights: entertaining with pets
+- LED Lights: Entertaining with pets
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/LED.png" align="center" />
 </div> 
 <br>
@@ -75,8 +75,6 @@ Code for reference: [Motion Control](https://github.com/HaleyKwok/Spherical_Robo
 > A program that controls two DC motors and a strip of WS2812 LEDs using an external device via a software serial interface. It is waiting for serial input via pins 6 and 7, and it reacts to certain characters (A, B, C, D, E, F, G, a, b, c, d, e, f, g) to control the direction and speed of the two DC motors. The motors are connected to pins 3, 9, 10, and 11. Additionally, the program initializes the WS2812 LED strip using the FastLED library and sets the brightness of the LEDs. There is also a function to twinkle the LEDs at a certain interval and chance.
 
 
-
-
 ### What's New?
 
 Code for reference: [LED Light Band] (https://github.com/HaleyKwok/Spherical_Robot/blob/main/LEDlightband.ino)
@@ -88,7 +86,7 @@ Code for reference: [LED Light Band] (https://github.com/HaleyKwok/Spherical_Rob
 ---
 
 ### 📐 Product Design
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ProductDesign.png" align="center" />
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ProductDesign.png" align="center" width = "300" />
 </div> 
 <br>
 
