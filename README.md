@@ -41,44 +41,46 @@ Our business strategy focuses on leveraging technology to create innovative solu
 - Bluetooth: Linking to mobile devices
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Bluetooth.png" align="center" />
 </div>  
+
 - Mini camera: Monitoring the real-time situation 
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Camera.png" align="center" />
 </div> 
+
 - Music Player: Playing music to the pets remotely through mobile devices
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Music.png" align="center" />
 </div> 
+
 - LED lights: entertaining with pets
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/LED.png" align="center" />
 </div> 
 
 Demonstration Video: https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/view?usp=sharing
 Control Diagram: [Control Diagram](https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagramExplanation.pdf)
+Code for reference: [Motion Control](https://github.com/HaleyKwok/Spherical_Robot/blob/main/Motion_Control_V2.ino)
 
 
 ---
 
 ## 🧾 Petronus Pet Care Ball Robot User Guide
-
-
 User Guide in PDF version: [User Guide](https://github.com/HaleyKwok/Spherical_Robot/blob/main/UserGuide.pdf)
 
 <details open>
 <summary>User Guide</summary>
   
-- The package should include:
-1. The Pet Care Ball Robot  2. Two 18650 Rechargeable batteries.  3. A user guide
+- **The package should include:**
+1. The Pet Care Ball Robot  2. Two 18650 Rechargeable batteries.  3. A User Guide
 
-- I. Unboxing the Robot
+- **I. Unboxing the Robot**
 1. Remove all parts from the packaging.
 2. Make sure all parts are present and in good condition. If there are any damage or defects, please contact our Customer Service team as soon as possible.
 3. Check the user guide for instructions.
 
-- II. Charging the batteries
+- **II. Charging the batteries**
 1. Connect the batteries with the charging box to a power source using the charging cable.
 2. Charging will take 2-3 hours to complete.
 3. Ensure that the batteries is fully charged prior to first use.
 
-- III. Connecting your device as controller
+- **III. Connecting your device as controller**
 1. Download BluetoothLE app via Apple’s App Store, Android’s Google Play Store or any app store.
 2. Open the ball robot and take the main body out of the casing.
 3. Turn on the Bluetooth module by ()
@@ -87,7 +89,7 @@ User Guide in PDF version: [User Guide](https://github.com/HaleyKwok/Spherical_R
 6. Search for “3103G12”.
 7. Click connect to pair the robot with your smartphone.
 
-- IV. Operating the Robot
+- **IV. Operating the Robot**
 1. Open the BluetoothLE app to control the robot's movement and speed.
 2. Ensure that the device is properly connected.
 3. Click on “Open Terminal”.
@@ -102,7 +104,7 @@ User Guide in PDF version: [User Guide](https://github.com/HaleyKwok/Spherical_R
 •	Enter “N” or “n” to stop
 •	Enter “O” or “o” to turn off lights
 
-- V. Playing Music
+- **V. Playing Music**
 1. Turn on the speaker by holding down the button on the speaker.
 2. Turn on Bluetooth on your device that you would like to use as a controller.
 3. Look for a device named “MT”.
@@ -111,22 +113,18 @@ User Guide in PDF version: [User Guide](https://github.com/HaleyKwok/Spherical_R
 6. If there is no sound output, try increasing the volume or reconnecting your device.
 7. If it still does not work, please contact our Customer Service team.
 
-- VI. Cleaning the Robot
+- **VI. Cleaning the Robot**
 1. Only clean the case of the robot with a damp cloth after each use.
 2. Do not use any harsh cleaning agents.
 3. Let it dry before reassembling with the main body or storing.
 4. DO NOT clean the inner body with a damp cloth.
 5. Clean the inner body using a brush and very lightly brush the parts/components to not potentially damage the parts.
 
-- VII. Storing the Robot
+- **VII. Storing the Robot**
 1. Store the robot in a cool, dry place.
 2. Keep the robot away from direct sunlight.
 3. DO NOT let the robot get into contact with any liquid.
 3. Make sure the robot is fully charged and dry before storing it away.
-Contact Us
-If you have any questions about the Ball Robot, please contact our customer service team at kwokhinchi@gmail.com 
-Thank you for choosing Petronus.
-
 
 </details>
 
@@ -148,14 +146,10 @@ Booth Presentation:
 
 Poster:
 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster1.jpeg" align="center" />
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster.jpeg" align="center" />
 </div> 
 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster2.jpeg" align="center" />
-</div> 
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster1.jpeg)](https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster1.jpeg)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster2.jpeg)](https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster2.jpeg)
 
 
 
