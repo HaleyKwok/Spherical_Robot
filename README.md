@@ -69,7 +69,7 @@ Control Diagram: [Control Diagram](https://github.com/HaleyKwok/Spherical_Robot/
 </div> 
 <br>
 
-Code for reference: [Motion Control](https://github.com/HaleyKwok/Spherical_Robot/blob/main/Motion_Control_V2.ino)
+Code for reference: [Version 1](https://github.com/HaleyKwok/Spherical_Robot/blob/main/Motion_Control_V2.ino)
 <br>
 
 > A program that controls two DC motors and a strip of WS2812 LEDs using an external device via a software serial interface. It is waiting for serial input via pins 6 and 7, and it reacts to certain characters (A, B, C, D, E, F, G, a, b, c, d, e, f, g) to control the direction and speed of the two DC motors. The motors are connected to pins 3, 9, 10, and 11. Additionally, the program initializes the WS2812 LED strip using the FastLED library and sets the brightness of the LEDs. There is also a function to twinkle the LEDs at a certain interval and chance.
@@ -77,11 +77,11 @@ Code for reference: [Motion Control](https://github.com/HaleyKwok/Spherical_Robo
 
 ### What's New?
 
-Code for reference: [LED Light Band](https://github.com/HaleyKwok/Spherical_Robot/blob/main/LEDlightband.ino)
+Code for reference: [Version 2](https://github.com/HaleyKwok/Spherical_Robot/blob/main/LEDlightband.ino)
 <br>
 
 > The software serial interface is used to communicate with an external device via the pins 6 and 7. The program waits for serial input and reacts to a series of characters (A, B, C, D, E, F, G, a, b, c, d, e, f, g) by controlling the direction and speed of two DC motors connected to the pins 3, 9, 10, and 11. The strip of WS2812 LED beads is connected to pin 5, and it is initialized with the FastLED library. The program sets the brightness of the LEDs, and it has a function to twinkle the LEDs at a certain interval and chance.
-
+>> It is another version of the Spherical Robot with an LED strip; all descriptions in this report are based on Version 1 only.
 
 ---
 
