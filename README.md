@@ -61,7 +61,7 @@ Our business strategy focuses on leveraging technology to create innovative solu
 </div> 
 <br>
 
-Demonstration Video: https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/view?usp=sharing
+Demonstration Video: [Video in Google Drive](https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/view?usp=sharing)
 <br>
 
 Control Diagram: [Control Diagram](https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagramExplanation.pdf)
