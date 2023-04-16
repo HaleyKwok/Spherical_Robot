@@ -11,9 +11,9 @@ N: Navigation
 U: Utility
 S: System
 
-<div>
-  <a><img src = 'https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png' align = 'center'></a>
-</div>
+
+<div align="center"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=haleykwok&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515](https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png)" align="center" />
+</div> 
 
 ---
 
