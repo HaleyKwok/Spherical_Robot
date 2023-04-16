@@ -11,7 +11,7 @@ N: Navigation
 U: Utility
 S: System
 
-<center><img src = 'Spherical Robot.jpeg'></center>
+<center><img src = 'PetronusLogo.jpeg'></center>
 
 ---
 
@@ -100,6 +100,12 @@ VII. Storing the Robot
 Contact Us
 If you have any questions about the Ball Robot, please contact our customer service team at kwokhinchi@gmail.com 
 Thank you for choosing Petronus.
+
+---
+## Video
+
+https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/view?usp=sharing
+
 
 ---
 
