@@ -12,7 +12,7 @@ U: Utility
 S: System
 
 
-  <a><img src = 'https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png'></center></a>
+  <a><img src = 'https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png' align = 'center'></a>
 
 ---
 
