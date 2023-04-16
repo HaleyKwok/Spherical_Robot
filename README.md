@@ -11,6 +11,8 @@ N: Navigation
 U: Utility
 S: System
 
+<center><img src = 'Spherical Robot.jpeg'></center>
+
 ---
 
 ## Mission
