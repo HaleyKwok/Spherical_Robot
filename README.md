@@ -15,13 +15,10 @@ S: System
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png" align="center" />
 </div> 
 
-
-
 ---
 
-## Mission
+## 📍 Mission
 Our mission is to provide innovative and practical solutions that improve the quality of life for pets and their owners. We are committed to leveraging the latest trends in Artificial Intelligence (AI) and the Internet of Things (IoT) to provide a range of products that enable pet owners to monitor and care better for their pets.
-
 
 --- 
 
@@ -39,26 +36,60 @@ Our business strategy focuses on leveraging technology to create innovative solu
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/SphericalRobot.jpeg" align="center" width = "350" />
 </div> 
 
+<br>
 - Bluetooth: Linking to mobile devices
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Bluetooth.png" align="center" />
 </div>  
 
+<br>
 - Mini camera: Monitoring the real-time situation 
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Camera.png" align="center" />
 </div> 
 
+<br>
 - Music Player: Playing music to the pets remotely through mobile devices
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Music.png" align="center" />
 </div> 
 
+<br>
 - LED lights: entertaining with pets
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/LED.png" align="center" />
 </div> 
 
 Demonstration Video: https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/view?usp=sharing
+<br>
+
 Control Diagram: [Control Diagram](https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagramExplanation.pdf)
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagram.png" align="center" />
+</div> 
+<br>
+
 Code for reference: [Motion Control](https://github.com/HaleyKwok/Spherical_Robot/blob/main/Motion_Control_V2.ino)
 
+### What's New?
+
+Code for reference: [LED Light Band](Code for reference: [LED Light Band](https://github.com/HaleyKwok/Spherical_Robot/blob/main/LEDlightband.ino)
+)
+
+---
+
+### 📐 Product Design
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ProductDesign.png" align="center" />
+</div> 
+<br>
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Layer.png" align="center" />
+</div> 
+<br>
+
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/MechanicalComponent.png" align="center" />
+</div> 
+<br>
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ElectronicComponents.png" align="center" />
+</div> 
+<br>
 
 ---
 
@@ -144,10 +175,7 @@ Business Proposal:
 Booth Presentation: 
 [Booth Presentation](https://github.com/HaleyKwok/Spherical_Robot/blob/main/BoothPresentation.pdf)
 
-
-Poster:
-
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster.png" align="center" />
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster.png" align="center" width = "350"/>
 </div> 
 
 
@@ -161,13 +189,9 @@ Poster:
 ## 📭 Contact
 If your have any comments or questions, feel free to contact kwokhinchi@gmail.com 
 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/businessCard.pdf" align="center" />
-</div> 
-
-
 ---
 
-## Acknowledgements
+## 📖 Acknowledgements
 Spherical Robot is an open source project, contributed by our team. We thank all contributors who implemented their methods or added new features, as well as users who provided valuable feedback. We hope for further implementation and improvement of these systems.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this Repository and associated documentation files, to deal in the Repository without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Repository is furnished to do so.
