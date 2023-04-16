@@ -35,6 +35,7 @@ Our business strategy focuses on leveraging technology to create innovative solu
 
 ## 🥳 Features
 
+### Product Overview 
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/SphericalRobot.jpeg" align="center" width = "350" />
 </div> 
 
@@ -146,12 +147,8 @@ Booth Presentation:
 
 Poster:
 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster.jpeg" align="center" />
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster.png" align="center" />
 </div> 
-
-
-
-
 
 
 ---
@@ -166,8 +163,6 @@ If your have any comments or questions, feel free to contact kwokhinchi@gmail.co
 
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/businessCard.pdf" align="center" />
 </div> 
-
-
 
 
 ---
@@ -185,7 +180,7 @@ We develop this repository for Assignment purposes, so it can only be used for p
 
 ---
 
-Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/), [Haley Kwok](https://github.com/HaleyKwok). All rights reserved.
+Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/), [Haley Kwok](https://github.com/HaleyKwok), SALEH Alessandra Sylva, WONG Pak Ki, WONG Sze Nga, LUI Uen Yau, SO Hiu Lam, and SIN Tak Chi. All rights reserved.
 
 
 <img src = 'logo-polyu.png'>
