@@ -12,7 +12,7 @@ U: Utility
 S: System
 
 
-<div align="center"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=haleykwok&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515](https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png)" align="center" />
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png" align="center" />
 </div> 
 
 ---
@@ -38,6 +38,8 @@ Our business strategy focuses on leveraging technology to create innovative solu
 - Music Player: Playing music to the pets remotely through mobile devices
 - LED lights: entertaining with pets
 
+Demonstration Video:
+https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/view?usp=sharing
 
 ---
 
@@ -103,25 +105,77 @@ Contact Us
 If you have any questions about the Ball Robot, please contact our customer service team at kwokhinchi@gmail.com 
 Thank you for choosing Petronus.
 
----
-## Video
+User Guide:
 
-https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/view?usp=sharing
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/UserGuide.pdf" align="center" />
+</div> 
+
+
+
+---
+
+## 📋 Technical Report
+
+
+Control Diagram: 
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagramExplanation.pdf" align="center" />
+</div> 
+
+
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Bluetooth.png" align="center" />
+</div> 
+
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Camera.png" align="center" />
+</div> 
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/LED.png" align="center" />
+</div> 
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Music.png" align="center" />
+</div> 
+
+
+---
+
+## Business Report
+
+Booth Presentation: 
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/BoothPresentation.pdf" align="center" />
+</div> 
+
+Business Proposal: 
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/BusinessProposal.pdf" align="center" />
+</div> 
+
+Poster:
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster1.jpeg" align="center" />
+</div> 
+
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Poster2.jpeg" align="center" />
+</div> 
+
 
 
 ---
 
 ## 📝 Changelog
 - __[2023.04.03]__: Release code.
-- __[2023.04.04]__: demo released.
-
+- __[2023.04.04]__: Demo released.
+- __[2023.04.16]__: Finalized the project details.
 
 ## 📭 Contact
 If your have any comments or questions, feel free to contact kwokhinchi@gmail.com 
 
-## 📋 Techinical Report
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/businessCard.pdf" align="center" />
+</div> 
 
 
+
+
+---
 
 ## Acknowledgements
 Spherical Robot is an open source project, contributed by our team. We thank all contributors who implemented their methods or added new features, as well as users who provided valuable feedback. We hope for further implementation and improvement of these systems.
