@@ -35,20 +35,32 @@ Our business strategy focuses on leveraging technology to create innovative solu
 
 ## 🥳 Features
 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/SphericalRobot.jpeg" align="center" />
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/SphericalRobot.jpeg" align="center" width = "350" />
 </div> 
 
-- Bluetooth: Linking to mobile devices 
+- Bluetooth: Linking to mobile devices
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Bluetooth.png" align="center" />
+</div>  
 - Mini camera: Monitoring the real-time situation 
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Camera.png" align="center" />
+</div> 
 - Music Player: Playing music to the pets remotely through mobile devices
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Music.png" align="center" />
+</div> 
 - LED lights: entertaining with pets
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/LED.png" align="center" />
+</div> 
 
-Demonstration Video:
-https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/view?usp=sharing
+Demonstration Video: https://drive.google.com/file/d/1X-75ReIW8xzi45FKERpuovpHpaWbvhPE/view?usp=sharing
+Control Diagram: [Control Diagram](https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagramExplanation.pdf)
+
 
 ---
 
 ## Petronus Pet Care Ball Robot User Guide
+
+
+User Guide in PDF version: [User Guide](https://github.com/HaleyKwok/Spherical_Robot/blob/main/UserGuide.pdf)
 
 <details open>
 <summary>User Guide</summary>
@@ -115,9 +127,6 @@ Contact Us
 If you have any questions about the Ball Robot, please contact our customer service team at kwokhinchi@gmail.com 
 Thank you for choosing Petronus.
 
-User Guide in PDF version:
-
-[User Guide](https://github.com/HaleyKwok/Spherical_Robot/blob/main/UserGuide.pdf)
 
 </details>
 
@@ -125,29 +134,8 @@ User Guide in PDF version:
 
 ## 📋 Technical Report
 
-
-Control Diagram: 
-[Control Diagram](https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagramExplanation.pdf)
-
-
-
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Bluetooth.png" align="center" />
-</div> 
-
-<br>
-
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Camera.png" align="center" />
-</div> 
-
-<br>
-
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/LED.png" align="center" />
-</div> 
-
-<br>
-
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Music.png" align="center" />
-</div> 
+Business Proposal: 
+[Business Proposal](https://github.com/HaleyKwok/Spherical_Robot/blob/main/BusinessProposal.pdf)
 
 
 ---
@@ -156,9 +144,6 @@ Control Diagram:
 
 Booth Presentation: 
 [Booth Presentation](https://github.com/HaleyKwok/Spherical_Robot/blob/main/BoothPresentation.pdf)
-
-Business Proposal: 
-[Business Proposal](https://github.com/HaleyKwok/Spherical_Robot/blob/main/BusinessProposal.pdf)
 
 
 Poster:
