@@ -107,7 +107,7 @@ Thank you for choosing Petronus.
 
 
 ## 📭 Contact
-If your have any comments or questions, feel free to contact kwokhinchi[AT]gmail[DOT]com 
+If your have any comments or questions, feel free to contact kwokhinchi@gmail.com 
 
 ## 📋 Techinical Report
 
