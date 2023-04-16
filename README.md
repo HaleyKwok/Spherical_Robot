@@ -101,7 +101,7 @@ Code for reference: [Version 2](https://github.com/HaleyKwok/Spherical_Robot/blo
 <br>
 
 #### Electronic Components
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ElectronicComponents.png" align="center" />
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ElectronicComponent.png" align="center" />
 </div> 
 <br>
 
