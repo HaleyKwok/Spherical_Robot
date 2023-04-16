@@ -11,8 +11,9 @@ N: Navigation
 U: Utility
 S: System
 
-
+<div>
   <a><img src = 'https://github.com/HaleyKwok/Spherical_Robot/blob/main/PetronusLogo.png' align = 'center'></a>
+</div>
 
 ---
 
