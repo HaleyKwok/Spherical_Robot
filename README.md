@@ -33,25 +33,29 @@ Our business strategy focuses on leveraging technology to create innovative solu
 ## 🥳 Features
 
 ### Product Overview 
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/SphericalRobot.jpeg" align="center" width = "350" />
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/SphericalRobot.jpeg" align="center" width = "200" />
 </div> 
 
 <br>
+
 - Bluetooth: Linking to mobile devices
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Bluetooth.png" align="center" />
 </div>  
 
 <br>
+
 - Mini camera: Monitoring the real-time situation 
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Camera.png" align="center" />
 </div> 
 
 <br>
+
 - Music Player: Playing music to the pets remotely through mobile devices
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Music.png" align="center" />
 </div> 
 
 <br>
+
 - LED lights: entertaining with pets
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/LED.png" align="center" />
 </div> 
@@ -68,8 +72,8 @@ Code for reference: [Motion Control](https://github.com/HaleyKwok/Spherical_Robo
 
 ### What's New?
 
-Code for reference: [LED Light Band](Code for reference: [LED Light Band](https://github.com/HaleyKwok/Spherical_Robot/blob/main/LEDlightband.ino)
-)
+Code for reference: [LED Light Band](https://github.com/HaleyKwok/Spherical_Robot/blob/main/LEDlightband.ino)
+
 
 ---
 
@@ -78,15 +82,17 @@ Code for reference: [LED Light Band](Code for reference: [LED Light Band](https:
 </div> 
 <br>
 
+#### Plastic Layers
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/Layer.png" align="center" />
 </div> 
 <br>
 
-
+#### Mechanical Components
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/MechanicalComponent.png" align="center" />
 </div> 
 <br>
 
+#### Electronic Components
 <div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ElectronicComponents.png" align="center" />
 </div> 
 <br>
@@ -128,13 +134,13 @@ User Guide in PDF version: [User Guide](https://github.com/HaleyKwok/Spherical_R
 4. Click on “FFE0”.
 5. Control the robot’s movement by using the instructions provided.
 4. There are several instruction modes available:
-•	Enter “A” or “a” to move forward
-•	Enter “B” or “b” to move backwards
-•	Enter “L” or “l” to turn left
-•	Enter “R” or “r” to turn right
-•	Enter “S” or “s” to spin
-•	Enter “N” or “n” to stop
-•	Enter “O” or “o” to turn off lights
+- Enter “A” or “a” to move forward
+- Enter “B” or “b” to move backwards
+- Enter “L” or “l” to turn left
+- Enter “R” or “r” to turn right
+- Enter “S” or “s” to spin
+- Enter “N” or “n” to stop
+- Enter “O” or “o” to turn off lights
 
 - **V. Playing Music**
 1. Turn on the speaker by holding down the button on the speaker.
