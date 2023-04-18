@@ -65,7 +65,7 @@ Demonstration Video: [Video in Google Drive](https://drive.google.com/file/d/1X-
 <br>
 
 Control Diagram: [Control Diagram](https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagramExplanation.pdf)
-<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagram.png" align="center"/>
+<div align="center"><img src="https://github.com/HaleyKwok/Spherical_Robot/blob/main/ControlDiagram.png align="center"/>
 </div> 
 <br>
 
