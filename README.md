@@ -195,6 +195,10 @@ Booth Presentation:
 ---
 
 ## 📝 Changelog
+- __[2022.10.02]__: Project started.
+- __[2022.11.25]__: Genenate the business ideas and prepare the materials.
+- __[2022.01.15]__: Mechanical parts in progress.
+- __[2022.02.27]__: Electronic parts in progress.
 - __[2023.04.03]__: Release code.
 - __[2023.04.04]__: Demo released.
 - __[2023.04.16]__: Finalized the project details.
